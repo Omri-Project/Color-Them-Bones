@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Color-Them-Bones">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ListView.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Paint It.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
